@@ -1,16 +1,29 @@
-## Hi there 👋
+# りょーび　問題定義の騎士
 
-<!--
-**TrueRyoB/TrueRyoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## プロフィール
 
-Here are some ideas to get you started:
+### コンテスト
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AtCoder Algo 灰色
+
+### 資格
+
+- 基本情報技術者試験
+
+## プロダクト
+
+### [盆栽HG](https://trueryob.github.io/BonsaiHG/)
+
+Claude Codeに作らせたブラウザ上のテキストエディタです。
+完全オフラインで動作します。
+
+### [Rhaazoeな間引き](https://unityroom.com/users/trueryob)
+
+パズルゲームです。現在制作中...
+
+
+## リンク
+
+- [Twitter](https://twitter.com/deep_nap_engine)
+- [Qiita](https://qiita.com/TrueRyoB)
+- [AtCoder](https://atcoder.jp/users/TrueRyoB)
