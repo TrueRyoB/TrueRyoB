@@ -4,7 +4,7 @@
 
 ### 紹介
 
-B3です。Webアプリ開発とゲーム制作が好き。Cybersecurituに興味あり。
+B3です。Webアプリ開発とゲーム制作が好き。Cybersecurityに興味あり。
 
 ### コンテスト
 
