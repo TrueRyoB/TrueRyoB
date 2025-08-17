@@ -25,6 +25,10 @@ Claude Codeに作らせたブラウザ上のテキストエディタです。
 
 パズルゲームです。現在制作中... (08/17/2025)
 
+### [制約強調屋](https://greasyfork.org/en/scripts/541785-constraints-emphasizer)
+
+AtCoder用の拡張機能です。
+制約駆動の問題解決を推進します。
 
 ## リンク
 
