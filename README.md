@@ -23,7 +23,7 @@ Claude Codeに作らせたブラウザ上のテキストエディタです。
 
 ### [Rhaazoeな間引き](https://unityroom.com/users/trueryob)
 
-パズルゲームです。現在制作中...
+パズルゲームです。現在制作中... (08/17/2025)
 
 
 ## リンク
