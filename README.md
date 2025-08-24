@@ -31,9 +31,10 @@ Claude Codeに作らせたブラウザ上のテキストエディタです。
 主に競プロer用の高速ファイル制作・実行・コピーのCLIサービスです。
 Npmでダウンロードできます。(PR待ってます)
 
-## [電卓2025](https://github.com/TrueRyoB/Dentaku2025)
+### [電卓2025](https://github.com/TrueRyoB/Dentaku2025)
 
-解析力とPCでの操作性に全振りした計算機です。関数使用時は検索エンジンに備え付けのに負けません。
+解析力とPCでの操作性に全振りした計算機です。
+関数使用時は検索エンジンに備え付けのに負けません。
 
 ### [制約強調屋](https://greasyfork.org/en/scripts/541785-constraints-emphasizer)
 
