@@ -26,7 +26,7 @@ Claude Codeに作らせたブラウザ上のテキストエディタです。
 
 パズルゲームです。現在制作中... (08/17/2025)
 
-### [Nomouse CLI](https://www.npmjs.com/package/nomouse-cli?activeTab=readme#nomouse-cli)
+### [Nomouse CLI](https://www.npmjs.com/package/nomouse-cli)
 
 主に競プロer用の高速ファイル制作・実行・コピーのCLIサービスです。
 Npmでダウンロードできます。(PR待ってます)
