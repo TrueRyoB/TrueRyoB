@@ -28,8 +28,8 @@ Claude Codeに作らせたブラウザ上のテキストエディタです。
 
 ### [Nomouse CLI](https://www.npmjs.com/package/nomouse-cli)
 
-主に競プロer用の高速ファイル制作・実行・コピーのCLIサービスです。
-Npmでダウンロードできます。(PR待ってます)
+主に競プロer用の高速ファイル作成・実行・コピーのCLIサービスです。
+Cpp以外の対応がまだ弱いので、ぜひPR送ってください！
 
 ### [電卓2025](https://github.com/TrueRyoB/Dentaku2025)
 
