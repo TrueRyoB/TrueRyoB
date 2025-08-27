@@ -8,7 +8,7 @@ B3です。Webアプリ開発とゲーム制作が好き。Cybersecurityに興�
 
 ### コンテスト
 
-- AtCoder Algo 灰色
+- AtCoder Algo 緑色perf
 
 ### 資格
 
