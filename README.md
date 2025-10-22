@@ -9,6 +9,9 @@ B3です。Webアプリ開発とゲーム制作が好き。機械学習頑張っ
 ### コンテスト
 
 - [![TrueRyoB](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FTrueRyoB)](https://atcoder.jp/users/TrueRyoB)
+<div class="atcoder-widget" data-user="TrueRyoB">
+  <script async src="https://cdn.jsdelivr.net/npm/atcoder-widget@0.0.3/dist/widget.js"></script>
+</div>
 
 ### 資格
 
