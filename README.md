@@ -14,6 +14,10 @@ B3です。Webアプリ開発とゲーム制作が好き。機械学習頑張っ
 - 基本情報技術者試験
 - TOEIC 965点
 
+### 音楽の嗜好
+
+- TOOBOE
+
 ## プロダクト
 
 ### [盆栽HG](https://trueryob.github.io/BonsaiHG/)
