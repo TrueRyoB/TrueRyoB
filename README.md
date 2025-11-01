@@ -17,9 +17,6 @@
 主に競プロer用の高速ファイル作成・実行・コピーのCLIサービスです。
 Cpp以外の対応がまだ弱いので、ぜひPR送ってください！
 
-AtCoder用の拡張機能です。
-制約駆動の問題解決を推進します。
-
 ## リンク
 
 - [Twitter](https://twitter.com/deep_nap_engine)
