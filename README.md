@@ -1,6 +1,7 @@
 # RyoB
 
 ## Profile
+Japanese student at University of Arkansas
 
 ### Hobbies
 [![TrueRyoB](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FTrueRyoB)](https://atcoder.jp/users/TrueRyoB)
@@ -17,11 +18,7 @@
 
 An interface for a fast file generation, execution, and copy for fellow competitive programmers.
 
-## Language
-- Japanese: Native
-- English: Excellent
-
-## Link
+## Contact
 
 - [Twitter](https://twitter.com/deep_nap_engine)
 - [Qiita](https://qiita.com/TrueRyoB)
