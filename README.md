@@ -17,6 +17,10 @@
 
 An interface for a fast file generation, execution, and copy for fellow competitive programmers.
 
+## Language
+- Japanese: Native
+- English: Excellent
+
 ## Link
 
 - [Twitter](https://twitter.com/deep_nap_engine)
