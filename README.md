@@ -1,23 +1,23 @@
-# りょーび
+# RyoB
 
-## プロフィール
+## Profile
 
-### コンテスト
+### Hobbies
 [![TrueRyoB](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FTrueRyoB)](https://atcoder.jp/users/TrueRyoB)
 
-### 資格
+### Certification
 
-- 基本情報技術者試験
-- TOEIC 965点
+- Fundamental IT Engineer Examination
+- TOEIC score: 965 points
+- 4.0 GPA
 
-## プロダクト
+## Product
 
 ### [Nomouse CLI](https://www.npmjs.com/package/nomouse-cli)
 
-主に競プロer用の高速ファイル作成・実行・コピーのCLIサービスです。
-Cpp以外の対応がまだ弱いので、ぜひPR送ってください！
+An interface for a fast file generation, execution, and copy for fellow competitive programmers.
 
-## リンク
+## Link
 
 - [Twitter](https://twitter.com/deep_nap_engine)
 - [Qiita](https://qiita.com/TrueRyoB)
