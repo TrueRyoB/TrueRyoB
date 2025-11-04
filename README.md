@@ -25,4 +25,3 @@ An interface for a fast file generation, execution, and copy for fellow competit
 
 - [Twitter](https://twitter.com/deep_nap_engine)
 - [Qiita](https://qiita.com/TrueRyoB)
-- [AtCoder](https://atcoder.jp/users/TrueRyoB)
