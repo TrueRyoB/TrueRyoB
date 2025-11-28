@@ -12,6 +12,12 @@ Japanese student at University of Arkansas
 - TOEIC score: 965 points
 - 4.0 GPA
 
+### Can
+
+- Frontend Development using modern tech stacks
+- Game Development based on Unity
+- Product Brainstorming
+
 ## Product
 
 ### [Nomouse CLI](https://www.npmjs.com/package/nomouse-cli)
