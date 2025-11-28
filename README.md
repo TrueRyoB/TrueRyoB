@@ -12,7 +12,7 @@ Japanese student at University of Arkansas
 - TOEIC score: 965 points
 - 4.0 GPA
 
-### Can
+### Can's
 
 - Frontend Development using modern tech stacks
 - Game Development based on Unity
@@ -27,5 +27,6 @@ An interface for a fast file generation, execution, and copy for fellow competit
 ## Contact
 
 - [Twitter](https://twitter.com/deep_nap_engine)
+- [Medium](https://medium.com/@trueryob)
 - [Qiita](https://qiita.com/TrueRyoB)
-- [DLive](https://dlive.tv/TrueRyoB)
+- [Wolfram](https://community.wolfram.com/web/trueryob)
