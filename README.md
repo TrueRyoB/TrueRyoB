@@ -30,3 +30,4 @@ An interface for a fast file generation, execution, and copy for fellow competit
 - [Medium](https://medium.com/@trueryob)
 - [Qiita](https://qiita.com/TrueRyoB)
 - [Wolfram](https://community.wolfram.com/web/trueryob)
+- [SoundCloud](https://soundcloud.com/trueryob)
