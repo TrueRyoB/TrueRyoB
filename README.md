@@ -12,12 +12,6 @@ Japanese student at University of Arkansas
 - TOEIC score: 965 points
 - 4.0 GPA
 
-### Can's
-
-- Frontend Development using modern tech stacks
-- Game Development based on Unity
-- Product Brainstorming
-
 ## Product
 
 ### [Nomouse CLI](https://www.npmjs.com/package/nomouse-cli)
@@ -28,6 +22,4 @@ An interface for a fast file generation, execution, and copy for fellow competit
 
 - [Twitter](https://twitter.com/deep_nap_engine)
 - [Medium](https://medium.com/@trueryob)
-- [Qiita](https://qiita.com/TrueRyoB)
 - [Wolfram](https://community.wolfram.com/web/trueryob)
-- [SoundCloud](https://soundcloud.com/trueryob)
