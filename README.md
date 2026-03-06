@@ -15,3 +15,9 @@ Japanese student at University of Arkansas
 ## Contact
 
 - [Twitter](https://twitter.com/deep_nap_engine)
+
+
+## Plan for near future
+- make several video games
+- work on an LLM scheduler based on [this](https://github.com/hibit-at/tree_input_generator)
+- ace in codeforces
