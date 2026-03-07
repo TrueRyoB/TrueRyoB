@@ -20,4 +20,5 @@ Japanese student at University of Arkansas
 ## Plan for near future
 - make several video games
 - work on an LLM scheduler based on [this](https://github.com/hibit-at/tree_input_generator)
+- invent speakdown / game evaluator
 - ace in codeforces
