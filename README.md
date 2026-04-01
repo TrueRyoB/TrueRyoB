@@ -14,6 +14,7 @@ Japanese student at University of Arkansas
 
 ## Contact
 
+- [X ](https://x.com/aphelios_like)
 - [Twitter](https://twitter.com/deep_nap_engine)
 - [Marshmallow](https://marshmallow-qa.com/5z3r25780dlp9w2)
 
